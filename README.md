@@ -1,6 +1,6 @@
 - 👋Ola!!!me chamo Cinthia Lorem Oliveira.
 - 👀 Estou me desenvolvendo na linguagem JavaScript.
 - 😄 Ultilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos.
-- Estou esudando no alura .
+- Estou esudando no alura https://cursos.alura.com.br/dashboard.
 -  👀 Estou me desenvolvendo na linguagem JavaScript.
 - 😄 Ultilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos.
