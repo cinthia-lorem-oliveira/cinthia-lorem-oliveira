@@ -1,3 +1,6 @@
-- 👋ola!!!me chamo Cinthia lorem oliveira.
-- 👀 estou me desenvolvendo na linguagem JavaScript.
-- 😄 ultilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos.
+- 👋Ola!!!me chamo Cinthia Lorem Oliveira.
+- 👀 Estou me desenvolvendo na linguagem JavaScript.
+- 😄 Ultilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos.
+- Estou esudando no alura .
+-  👀 Estou me desenvolvendo na linguagem JavaScript.
+- 😄 Ultilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos.
